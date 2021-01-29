@@ -20,7 +20,7 @@ public class Main  extends Application{
 
 	@Override
 	public void start(Stage primaryStage) {
-		 File fileDirectory = new File("C:\Users\BOB\Downloads\users.txt");
+		 File fileDirectory = new File("C:\Desktop\users.txt");
 		 //System.out.println(fileDirectory.getName());
 		
 		
